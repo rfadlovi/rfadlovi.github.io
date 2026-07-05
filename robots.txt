@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rfadlovi.github.io/al-folio/sitemap.xml
+Sitemap: https://rfadlovi.github.io/sitemap.xml
